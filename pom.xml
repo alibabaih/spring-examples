@@ -1,0 +1,24 @@
+<project>
+
+    <modelVersion>4.0.0</modelVersion>
+    <name>Spring Examples</name>
+    <groupId>schitov</groupId>
+    <artifactId>spring-examples</artifactId>
+    <version>0.1</version>
+
+
+    <dependencies>
+
+        <!--Spring (Business logic container)-->
+        <!--Core utilities used by other modules-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>4.1.4.RELEASE</version>
+        </dependency>
+
+
+
+    </dependencies>
+
+</project>
